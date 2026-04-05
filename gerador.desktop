@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Gerador de Manuais
+Exec=/home/jeferson/Área de Trabalho/DocAutomatico/dist/gerador
+Icon=/home/jeferson/Área de Trabalho/DocAutomatico/dist/logo.png
+Type=Application
+Terminal=false
